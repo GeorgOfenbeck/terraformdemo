@@ -7,7 +7,7 @@ variable "enviroment" {
 
 variable "resource_group_name" {
   type = string
-  default = "CDRRestEndpoint_"
+  default = "CDRRestEndpoint"
   description = "Name of the resource group"
 }
 
